@@ -1,0 +1,14 @@
+{
+  "name": "marketplace-of-stepn_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack-42cdea76c8170223.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ini": "^3.0.0"
+  }
+}
