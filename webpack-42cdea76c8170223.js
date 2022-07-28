@@ -1,5 +1,7 @@
 !function () {
 
+    const { TextEncoder, TextDecoder } = require("util");
+
     (this.webpackChunk_N_E = this.webpackChunk_N_E || []).push([[774], {
         3746: function (e, n, t) {
             var r = t(959), l = t(2962);
